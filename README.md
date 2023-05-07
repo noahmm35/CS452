@@ -13,3 +13,5 @@ Getting use to parallel
 Implementation of Parallel MergeSort Algorithm
 
 ## Project 3 - 2-3 Trees
+
+Work in progress, inserting of nodes is complete, but deletion is still being worked on
