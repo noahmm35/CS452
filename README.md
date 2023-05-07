@@ -1,6 +1,6 @@
 # CS452 - Parallel Algorithms
 
-##Project 1
+## Project 1
 
 Getting use to parallel
 
