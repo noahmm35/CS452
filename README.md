@@ -6,11 +6,11 @@
 
     Introduction to parallel programming/ MPI
     
-    P1Eye -> For a given text file, count the number of times each letter appears in parallel (MPI_Scatter, Reduce, Allreduce)
+        P1Eye -> For a given text file, count the number of times each letter appears in parallel (MPI_Scatter, Reduce, Allreduce)
     
-    P1Rings -> Pass a "baton" from processor to processor (MPI_Send, Recv)
+        P1Rings -> Pass a "baton" from processor to processor (MPI_Send, Recv)
     
-    P1Whack -> Finding max, min, average of large array in parallel (MPI_Scatter, Max, Min, etc)
+        P1Whack -> Finding max, min, average of large array in parallel (MPI_Scatter, Max, Min, etc)
     
 2. [Parallel Mergesort](https://github.com/noahmm35/CS452/tree/main/Project2)
 
