@@ -1,17 +1,23 @@
-# CS452: Parallel Algorithms
+## CS452: Parallel Algorithms
 
-## Project 1: Intro to parallel
+### Projects Above:
 
-Getting use to parallel
+1. [Project 1](https://github.com/noahmm35/CS452/tree/main/Project1)
 
-1. P1Whack -> Getting familiar with things like MPI_Sum, MPI_Max, etc.
-2. P1Rings -> Getting familiar with MPI_Send and Recv to pass "baton" from processor to processor
-3. P1Eye -> For a given text file, count the number of times every letter appears
+    Introduction to parallel programming/ MPI
+    
+    P1Eye -> For a given text file, count the number of times each letter appears in parallel (MPI_Scatter, Reduce, Allreduce)
+    
+    P1Rings -> Pass a "baton" from processor to processor (MPI_Send, Recv)
+    
+    P1Whack -> Finding max, min, average of large array in parallel (MPI_Scatter, Max, Min, etc)
+    
+2. [Parallel Mergesort](https://github.com/noahmm35/CS452/tree/main/Project2)
 
-## Project 2: Parallel Mergesort
+   Implementation of parallel mergesort algorithm for array of integers
 
-Implementation of Parallel MergeSort Algorithm
+3. **Work in Progress** - [2-3 Trees](https://github.com/noahmm35/CS452/tree/main/Project3)
 
-## Project 3: 2-3 Trees
-
-Work in progress, inserting of nodes is complete, but deletion is still being worked on
+   Sequential implementation of 2-3 trees
+   
+   Insertion works, deletion is not quite finished
